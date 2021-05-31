@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    box-sizing: none;
+    background: no-repeat;
+}
+.box{
+    height: 50%;
+    width: 50%;
+    padding: 25%;
+}
